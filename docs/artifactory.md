@@ -1,0 +1,1 @@
+@ppremk, thoughts on using the basis of this document to create the steps to integrate an LFS-enabled repo with Artifactory: https://www.jfrog.com/confluence/display/JFROG/Git+LFS+Repositories

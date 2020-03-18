@@ -1,0 +1,5 @@
+* [Overview](/overview.md)
+* [Install Git LFS](/install.md)
+* [Moving the file to Git LFS](/moving.md)
+* [Using Git LFS in other projects](/other-projects.md)
+* [Git LFS and Artifactory](/artifactory.md)
